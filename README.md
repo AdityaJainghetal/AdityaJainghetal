@@ -1,116 +1,97 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Aditya+Jain+👋;MERN+Full+Stack+Developer+🚀;I+Build+Modern+Web+Applications+🌐;Always+Learning+New+Things+🔥"/>
-</p>
+<h1 align="center">Hi 👋, I'm Aditya Jain</h1>
+
+<h3 align="center">🚀 MERN Full-Stack Developer | Turning Ideas Into Full-Stack Products</h3>
 
 ---
 
-<!-- About Me Card -->
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="350"/>
-</p>
-
-<p align="center">
-🌟 Passionate Full-Stack Developer specializing in the **MERN Stack**  
-<br/>
-💡 I love building dynamic, scalable and interactive web apps  
-<br/>
-🔥 Currently exploring **Next.js, TypeScript & Cloud Deployment**  
-<br/>
-🎯 Goal: Become a top-tier full-stack engineer  
-<br/>
-🚀 Always excited to create, learn, and innovate!
-</p>
+## 💫 About Me  
+- 🚀 Full-Stack Developer specializing in **MERN Stack**  
+- 🎓 Graduated from **LNCT College – Mechanical Engineering**  
+- 💼 Built multiple real-world projects including **Hostel Booking System, E-commerce Website, Task Manager, Airline Dashboard, Calculator**, and more  
+- 🌱 Currently mastering **Next.js, TypeScript, Cloud (Render, Vercel), Razorpay Integration**  
+- 💬 Ask me about **React, Node.js, APIs, Authentication, Payment Integration**  
+- ⚡ Fun fact: I love building projects that **solve real problems**  
 
 ---
 
-## 🎯 Tech Stack & Tools
+# 🛠️ Tech Stack
 
-### 🖥️ **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+### **Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛠️ **Backend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+### **Backend**
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🗄️ **Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white"/>
-</p>
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 **Other Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
-</p>
+### **Tools & Others**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 🚀 Projects (My Best Work)
+# 🚀 Major Projects
 
-### 🔹 **1. Hostel Booking Website**  
-**Tech:** React, Node, Express, MongoDB  
-✨ Full-stack hostel room booking system with auth, admin panel, and payments.
+### ⭐ **Hostel Booking Website – MERN Stack**
+- Full authentication (JWT, bcrypt)  
+- Admin + User dashboards  
+- Real-time booking system  
 
-### 🔹 **2. E-Commerce Website (Razorpay Payments)**  
-**Tech:** React, Node, MongoDB  
-🛒 Full cart system + Razorpay integration + admin product management.
+### ⭐ **E-commerce Website – MERN + Razorpay Payment**
+- Add to cart, wishlist, product filters  
+- Razorpay payment gateway  
+- Admin product management  
 
-### 🔹 **3. Task Management System**  
-**Tech:** MERN  
-📌 Create/Delete/Update tasks with login & JWT authentication.
+### ⭐ **Task Management System – MERN**
+- Create tasks, update progress  
+- Role-based access, authentication  
+- Modern UI using React  
 
-### 🔹 **4. Airline Ticket Dashboard**  
-**Tech:** JavaScript, JSON server  
-✈️ Displays dynamic airline data with filtering and analytics.
+### ⭐ **Airline Ticket Dashboard – JS + API**
+- Real-time API data visualisation  
+- Search flights, booking UI  
 
-### 🔹 **5. Calculator App**  
-🧮 Built during your internship — clean UI + JS-based calculations.
+### ⭐ **Calculator Project – Internship**
+- Built during Cybrom internship  
+- Clean UI with full functionality  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJain&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJain&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+# 🌐 Socials
+
+<p align="left">
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="400"/>
-</p>
+# ⚡ Fun Quote
+> "First, solve the problem. Then, write the code."
 
-<p align="center"><b>🚀 Thanks for visiting! Keep coding and building amazing things!</b></p>
+---
+
+### ⭐ If you like my work, consider giving a star to my projects!
+
