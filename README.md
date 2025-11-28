@@ -42,10 +42,10 @@
 ---
 
 # 📊 GitHub Stats:
-![My Followers](https://img.shields.io/github/followers/Abhaydixitdev)
-![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![My Followers](https://img.shields.io/github/followers/Adityajainghetal)
+![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/Adityajainghetal/main/dist/github-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adityajainghetal&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Adityajainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center"> 
