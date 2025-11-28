@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditya Jain</h1>
 
 <h3 align="center">🚀 MERN Full-Stack Developer | Turning Ideas Into Full-Stack Products</h3>
+# 💫 About Me:
+# MERN Full-Stack Developer </br>  [ { ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) } , { ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) } , { ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) }, { ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) } ]
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<img align="right"  alt="code thinking"  width="360px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 ---
 
-## 💫 About Me  
-- 🚀 Full-Stack Developer specializing in **MERN Stack**  
-- 🎓 Graduated from **LNCT College – Mechanical Engineering**  
-- 💼 Built multiple real-world projects including **Hostel Booking System, E-commerce Website, Task Manager, Airline Dashboard, Calculator**, and more  
-- 🌱 Currently mastering **Next.js, TypeScript, Cloud (Render, Vercel), Razorpay Integration**  
-- 💬 Ask me about **React, Node.js, APIs, Authentication, Payment Integration**  
-- ⚡ Fun fact: I love building projects that **solve real problems**  
 
----
 
 # 🛠️ Tech Stack
 
