@@ -91,6 +91,9 @@
 ---
 
 
+# 📊 GitHub Stats: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact" alt="adityajainghetal" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en" alt="adityajainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
+
+
 # 📊 GitHub Stats:
 ![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
 ![Snake animation](https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg)
@@ -99,17 +102,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en&theme=dark&hide_border=true" alt="adityajainghetal GitHub stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 # ⚡ Fun Quote
 > "First, solve the problem. Then, write the code."
