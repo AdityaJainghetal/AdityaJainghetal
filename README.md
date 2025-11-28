@@ -93,7 +93,6 @@
 
 
 
-# 📊 GitHub Stats:
 ![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
 ![Snake animation](https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg)
 
