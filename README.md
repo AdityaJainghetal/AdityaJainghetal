@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Jain</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-</p>
-<p align="center">
+# 💫 About Me:
+# MERN Full-Stack Developer </br>  [ { ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) } , { ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) } , { ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) }, { ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) } ]
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<img align="right"  alt="code thinking"  width="360px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
 
 
 ## 🌐 Socials:
@@ -19,4 +22,33 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AdityaJainghetal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📚 Currently Learning:
+- 📖 TypeScript
+- 📱 React Native
+- 📱 Next.js
+- 🖥️ Microservices with Node.js
+- 📊 GraphQL API integrations
+
+---
+
+## 🎯 2026 Goals:
+- 🚀 Become a certified MERN architect
+- 🖥️ Build an Open Source SaaS product
+- 💻 Land an international remote job opportunity
+- 📦 Contribute to popular Node.js libraries
+- 📱 Launch a React Native app on PlayStore
+
+---
+
+# 📊 GitHub Stats:
+![My Followers](https://img.shields.io/github/followers/Abhaydixitdev)
+![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/AbhayDixitDev/count.svg" alt="Visitor's Count" />
+</div>
