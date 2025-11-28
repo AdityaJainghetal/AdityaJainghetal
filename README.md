@@ -91,7 +91,6 @@
 ---
 
 
-# 📊 GitHub Stats: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact" alt="adityajainghetal" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en" alt="adityajainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
 
 
 # 📊 GitHub Stats:
@@ -101,6 +100,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+# 📊 GitHub Stats: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact" alt="adityajainghetal" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en" alt="adityajainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
 
 
 
