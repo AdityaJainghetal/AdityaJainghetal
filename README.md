@@ -88,6 +88,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
 
+
+# 📊 GitHub Stats:
+![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
+![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AdityaJainghetal/main/dist/github-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 # 🌐 Socials
 
 <p align="left">
