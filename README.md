@@ -92,50 +92,13 @@
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg" alt="snake animation" />
-
-# Hi there, I'm Aditya Jain 👋
-
-**`Aspiring Developer | Open Source Enthusiast`**
-
-I'm learning and building projects in Web Development, DSA, and exploring new technologies every day.
-
-<br>
-
-## 🚀 Languages and Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,express,mongodb,git,github,vscode&perline=10" />
-  </a>
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AdityaJainghetal?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-<br>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaJainghetal&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake (Dark Mode)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<br>
+# 📊 GitHub Status:
+![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
+![Snake animation](https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Status: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact" alt="adityajainghetal" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en" alt="adityajainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
 
 ## 📬 Connect with me
 <p align="center">
