@@ -101,19 +101,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=adityajainghetal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+# 📊 GitHub Status: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact" alt="adityajainghetal" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en" alt="adityajainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
 
 
 # ⚡ Fun Quote
