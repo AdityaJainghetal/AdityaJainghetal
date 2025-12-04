@@ -94,17 +94,30 @@
 
 
 
-# 📊 GitHub Status:
-![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
-![Snake animation](https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AdityaJainghetal?style=flat-square" alt="Followers" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg" alt="Snake animation" />
+</p>
 
- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=5&theme=github_light&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+### 🔥 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=6&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
 <hr>
 
 # ⚡ Fun Quote
