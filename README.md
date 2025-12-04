@@ -113,8 +113,9 @@
 # 📊 GitHub Status: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaJainghetal&show_icons=true&locale=en&layout=compact" alt="AdityaJainghetal" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&show_icons=true&locale=en" alt="AdityaJainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&" alt="adityajainghetal" /></p>
  
  
- 
-esh sahi karo
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=5&theme=github_light&combine_all_yearly_contributions=true)
+<hr>
 
 # ⚡ Fun Quote
 > "First, solve the problem. Then, write the code."
