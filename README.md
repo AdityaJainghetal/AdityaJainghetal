@@ -91,63 +91,30 @@
 ---
 
 
-<!-- Header -->
-<img align="right" src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg" alt="snake animation" />
 
-# Hi there 👋, I'm Aditya Jainghetal
-
-![GitHub Followers](https://img.shields.io/github/followers/AdityaJainghetal?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/AdityaJainghetal?style=social)
-
-**`Full Stack Developer | Open Source Enthusiast | Coder by Passion`**
-
-<br/>
 
 ## 🔥 GitHub Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=00FF00&fire=FF0066&currStreakLabel=00FF00" alt="GitHub Streak"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
 </p>
 
-## 🐍 Snake Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-<!--
-Optional: Trophy section (uncomment if you want)
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdityaJainghetal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
-  </a>
-</p>
--->
-
-<br/>
-
-## Connect with me:
-<p align="center">
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?style=social" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
-## 📬 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=AdityaJainghetal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-<!--
-**AdityaJainghetal/AdityaJainghetal** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
+# 📊 GitHub Status:
+![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
+![Snake animation](https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Status: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajainghetal&show_icons=true&locale=en&layout=compact" alt="adityajainghetal" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajainghetal&show_icons=true&locale=en" alt="adityajainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajainghetal&" alt="adityajainghetal" /></p>
+ 
+ 
+ 
+esh sahi karo
 
 # ⚡ Fun Quote
 > "First, solve the problem. Then, write the code."
