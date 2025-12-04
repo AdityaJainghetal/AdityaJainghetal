@@ -97,6 +97,7 @@
 # 📊 GitHub Status:
 ![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
 ![Snake animation](https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg)
+🔥 GitHub Streaks
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
