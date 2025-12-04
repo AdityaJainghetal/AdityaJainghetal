@@ -105,6 +105,40 @@
 
 
 
+
+
+<div align="center">
+
+<!-- Followers Badge -->
+<img src="https://img.shields.io/github/followers/AdityaJainghetal?style=social" alt="Followers"/>
+
+<!-- Snake Animation (looks best on top or bottom) -->
+<img src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake.svg" alt="Snake Animation"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=00FF00&fire=FF0066&currStreakLabel=00FF00" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- GitHub Stats + Top Languages Side by Side -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
+
+<br/>
+
+<!-- Contribution Snake (Dark Version - Optional, looks awesome at bottom) -->
+<img src="https://raw.githubusercontent.com/AdityaJainghetal/AdityaJainghetal/main/dist/github-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+
+
+
+
+
+
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=5&theme=github_light&combine_all_yearly_contributions=true)
 <hr>
