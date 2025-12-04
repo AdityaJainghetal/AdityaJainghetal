@@ -105,10 +105,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 🔥 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=5&theme=github_light&combine_all_yearly_contributions=true)
-<hr>
 
 
 <hr>
@@ -119,6 +115,12 @@
 <br>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AdityaJainghetal&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaJainghetal" /> </p>
+
+
+### 🔥 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=5&theme=github_light&combine_all_yearly_contributions=true)
+<hr>
 
 
 # ⚡ Fun Quote
