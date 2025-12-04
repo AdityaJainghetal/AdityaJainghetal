@@ -112,6 +112,14 @@
 
 <hr>
 
+### 🔥 Contribution
+
+<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaJainghetal&theme=buefy'>
+<br>
+
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=AdityaJainghetal&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaJainghetal" /> </p>
+
+
 # ⚡ Fun Quote
 > "First, solve the problem. Then, write the code."
 
