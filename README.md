@@ -98,11 +98,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=00FF00&fire=FF0066&currStreakLabel=00FF00" alt="GitHub Streak"/>
 </p>
 
-## 📊 GitHub Status
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJainghetal&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
-</p>
+
+# 📊 GitHub Status: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaJainghetal&show_icons=true&locale=en&layout=compact" alt="AdityaJainghetal" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaJainghetal&show_icons=true&locale=en" alt="AdityaJainghetal" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJainghetal&" alt="adityajainghetal" /></p>
 
 # 📊 GitHub Status:
 ![My Followers](https://img.shields.io/github/followers/AdityaJainghetal)
