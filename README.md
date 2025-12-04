@@ -123,10 +123,4 @@
 <hr>
 
 
-# ⚡ Fun Quote
-> "First, solve the problem. Then, write the code."
-
----
-
-### ⭐ If you like my work, consider giving a star to my projects!
 
