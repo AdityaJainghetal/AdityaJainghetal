@@ -114,9 +114,9 @@
 </p>
 
 ### 🔥 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=6&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=AdityaJainghetal&limit=5&theme=github_light&combine_all_yearly_contributions=true)
+<hr>
+
 
 <hr>
 
